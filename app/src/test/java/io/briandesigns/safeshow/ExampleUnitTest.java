@@ -1,4 +1,4 @@
-package com.briandesigns.safeshow;
+package io.briandesigns.safeshow;
 
 import org.junit.Test;
 
