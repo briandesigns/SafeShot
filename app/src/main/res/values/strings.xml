@@ -1,6 +1,13 @@
 <resources>
     <string name="app_name">SafeShow</string>
 
-    <string name="dummy_button">Dummy Button</string>
-    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="title_activity_unlock">UnlockActivity</string>
+
+    <string name="title_activity_pin">PinActivity</string>
+
+    <string name="pin_activity_title">SAFESHOW</string>
+
+    <string name="pin_instruction">SET 4 DIGIT PIN</string>
+
+
 </resources>

@@ -3,33 +3,13 @@
              android:layout_width="match_parent"
              android:layout_height="match_parent"
              android:background="@color/colorPrimaryDark"
-             tools:context="io.briandesigns.safeshow.SplashActivity">
+             tools:context="io.briandesigns.safeshow.UnlockActivity"
+    >
 
     <!-- The primary full-screen view. This can be replaced with whatever view
-
          is needed to present your content, e.g. VideoView, SurfaceView,
          TextureView, etc. -->
-    <LinearLayout
-        android:id="@+id/fullscreen_conent"
-        android:orientation="vertical"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_gravity="center">
 
-        <ImageView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:src="@mipmap/hat_shade_logo"
-            android:layout_gravity="center"/>
-
-        <ImageView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:src="@mipmap/shirt_logo"
-            android:id="@+id/imageView3"
-            android:layout_marginTop="50dp"
-            android:layout_gravity="center"/>
-    </LinearLayout>
 
     <!-- This FrameLayout insets its children based on system windows using
          android:fitsSystemWindows. -->
@@ -37,18 +17,41 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:fitsSystemWindows="true"
-        android:layout_gravity="center">
+        >
 
         <LinearLayout
             android:id="@+id/fullscreen_content_controls"
             style="?metaButtonBarStyle"
-            android:layout_width="wrap_content"
+            android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_gravity="bottom|center_horizontal"
             android:background="@color/black_overlay"
             android:orientation="horizontal"
             tools:ignore="UselessParent">
+        </LinearLayout>
 
+        <LinearLayout
+            android:id="@+id/fullscreen_content"
+            android:orientation="vertical"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center_vertical|center_horizontal"
+            android:layout_gravity="center">
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@mipmap/hat_shade_logo"
+                android:id="@+id/imageView"
+                android:layout_gravity="center"/>
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@mipmap/unlock_slide_arrows"
+                android:id="@+id/imageView2"
+                android:layout_marginTop="91dp"
+                android:layout_gravity="center"/>
         </LinearLayout>
     </FrameLayout>
 
