@@ -1,2 +1,61 @@
 <?xml version="1.0" encoding="utf-8"?>
-<items version="2" />
+<items version="2" >
+
+    <item
+        jar="/home/brian/Projects/SafeShow/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="292a9fa091757208efa65e77eef63088247e51f3">
+        <dex dex="/home/brian/Projects/SafeShow/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.2.0_b3b4dc49c06f118992989db35dceb07d9e8fa0e5/classes.dex" />
+    </item>
+    <item
+        jar="/home/brian/Projects/SafeShow/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="6e3578f92f7462d1a935a1d36173e3bdd1234976">
+        <dex dex="/home/brian/Projects/SafeShow/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.2.0_f64ef4fff88e619b8eb013109b56d4ccf572996a/classes.dex" />
+    </item>
+    <item
+        jar="/home/brian/Projects/SafeShow/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.0/jars/libs/internal_impl-23.2.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="6e239441500605809818997dd63b62a947195f8c">
+        <dex dex="/home/brian/Projects/SafeShow/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.2.0_f87a895d324f1fe6aa459cbc6ddd4c005ee0221c/classes.dex" />
+    </item>
+    <item
+        jar="/home/brian/.Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.2.0/support-annotations-23.2.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="c5bf571bb10462bd90e5419ade67793f71acbc87">
+        <dex dex="/home/brian/Projects/SafeShow/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.2.0_d8c179907760a9e012d985e45a7da741d8146af7/classes.dex" />
+    </item>
+    <item
+        jar="/home/brian/Projects/SafeShow/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="1d37c1274bb5203eb0b0d26bbb0b5b99aa86102b">
+        <dex dex="/home/brian/Projects/SafeShow/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_04d146f87f769f642d66c977a6f0d3dd0e3fb0d4/classes.dex" />
+    </item>
+    <item
+        jar="/home/brian/Projects/SafeShow/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="9597858dabdb16a5127c847e4ff43f21d3ad443e">
+        <dex dex="/home/brian/Projects/SafeShow/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_a24773d88ce417814b2a9dfb17cde808081a844c/classes.dex" />
+    </item>
+    <item
+        jar="/home/brian/Projects/SafeShow/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="e5f32fa48a3eb2de0c987025c11b6e3864b634d9">
+        <dex dex="/home/brian/Projects/SafeShow/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.2.0_fd0d2d26133daf20ad2b0c02050263e7930cf5e0/classes.dex" />
+    </item>
+    <item
+        jar="/home/brian/Projects/SafeShow/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="8c108c22c99e794eff255bb34d2a461200c4cbb0">
+        <dex dex="/home/brian/Projects/SafeShow/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.2.0_69599c5bcd5c6c0e0c7a2d3549fe2f6244909348/classes.dex" />
+    </item>
+
+</items>
